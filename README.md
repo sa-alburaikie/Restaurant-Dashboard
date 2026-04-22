@@ -33,6 +33,14 @@ It includes both customer-facing features and a powerful admin dashboard for com
 
 ---
 
+![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
+![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php)
+![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql)
+![Livewire](https://img.shields.io/badge/Livewire-green?style=for-the-badge)
+
+---
+
+
 ## ▶️ Demo
 https://www.youtube.com/watch?v=Jd_e2hukYG4
 
